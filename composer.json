@@ -1,6 +1,6 @@
 {
-  "name": "yingxiao/helper",
-  "description": "yingxiao Helper Collection",
+  "name": "yingxiao/commonhelper",
+  "description": "yingxiao commonhelper Collection",
   "type": "library",
   "require": {
     "php": ">=7.1.0",
