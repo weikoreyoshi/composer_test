@@ -1,0 +1,36 @@
+{
+  "name": "yingxiao/helper",
+  "description": "yingxiao Helper Collection",
+  "type": "library",
+  "require": {
+    "php": ">=7.1.0",
+    "guzzlehttp/guzzle": "~6.0",
+    "ext-json":"*",
+    "firebase/php-jwt": "^5.0",
+    "elasticsearch/elasticsearch": "~5.0",
+    "php-amqplib/php-amqplib": "2.8.0",
+    "xeslib/log": ">=0.2"
+  },
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "yingxiao RD",
+      "email": "yingxiao@100tal.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "BizCRM\\": "src/"
+    }
+  },
+  "extra": {
+    "laravel": {
+      "providers": [
+        "YingXIAO\\Providers\\BizCRMTraceProvider"
+      ]
+    }
+  },
+  "config": {
+    "secure-http": false
+  }
+}
