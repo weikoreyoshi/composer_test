@@ -8,7 +8,7 @@
 namespace Qinwei;
 
 
-class Test{
+class testHelper{
 
     public function getName(){
         echo 'composer_test111';
