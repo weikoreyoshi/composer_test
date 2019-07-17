@@ -1,6 +1,6 @@
 {
-  "name": "yingxiao/commonhelper",
-  "description": "yingxiao commonhelper Collection",
+  "name": "qinwei/commonhelper",
+  "description": "qinwei commonhelper Collection",
   "type": "library",
   "require": {
     "php": ">=7.1.0",
@@ -14,8 +14,8 @@
   "license": "MIT",
   "authors": [
     {
-      "name": "yingxiao RD",
-      "email": "yingxiao@100tal.com"
+      "name": "qinwei RD",
+      "email": "qinwei@qq.com"
     }
   ],
   "autoload": {
@@ -26,7 +26,7 @@
   "extra": {
     "laravel": {
       "providers": [
-        "YingXIAO\\Providers\\BizCRMTraceProvider"
+        "qinwei\\Providers\\TestProvider"
       ]
     }
   },
