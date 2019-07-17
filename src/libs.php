@@ -8,5 +8,6 @@
  * http://packagist.xesv5.com:8093
  *
  */
+namespace Qinwei;
 
 echo 'composer_test';

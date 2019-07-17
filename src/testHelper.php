@@ -5,5 +5,13 @@
  * Date: 2019-07-17
  * Time: 17:11
  */
+namespace Qinwei;
 
-echo 222;
+
+class Test{
+
+    public function getName(){
+        echo 'composer_test111';
+    }
+
+}
