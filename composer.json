@@ -20,7 +20,7 @@
   ],
   "autoload": {
     "psr-4": {
-      "BizCRM\\": "src/"
+      "Qinwei\\": "src/"
     }
   },
   "extra": {

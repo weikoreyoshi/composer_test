@@ -10,7 +10,7 @@ namespace Qinwei;
 
 class testHelper{
 
-    public function getName(){
+    public static function getName(){
         echo 'composer_test111';
     }
 
