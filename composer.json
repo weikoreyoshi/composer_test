@@ -9,8 +9,7 @@
     "firebase/php-jwt": "^5.0",
     "elasticsearch/elasticsearch": "~5.0",
     "php-amqplib/php-amqplib": "2.8.0",
-    "xeslib/log": ">=0.2",
-    "qinwei/commonhelper": "^0.0.1"
+    "xeslib/log": ">=0.2"
   },
   "license": "MIT",
   "authors": [
